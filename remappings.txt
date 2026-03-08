@@ -1,0 +1,2 @@
+drosera-contracts/=lib/contracts/src/interfaces/
+forge-std/=lib/forge-std/src/
